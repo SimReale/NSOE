@@ -1,7 +1,7 @@
 # TablutCompetition
 Software for the Tablut Students Competition.
 
-NSOE version has been awarded with with the 🥉**3rd place** overall for performances.
+NSOE version has been awarded with the 🥉**3rd place** overall for performances.
 
 ## Installation on Ubuntu/Debian 
 
